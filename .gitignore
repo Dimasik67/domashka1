@@ -26,7 +26,10 @@ bin/
 ### VS Code ###
 .vscode/
 .idea/workspace.xml
-
+.idea
 
 ### Mac OS ###
 .DS_Store
+.idea/vcs.xml
+.idea/workspace.xml
+out/

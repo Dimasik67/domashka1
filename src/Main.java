@@ -1,16 +1,13 @@
 
 public class Main {
-    public static void Main (String []args) {
+    public static void main (String []args) {
 
 
-            int eater = 5; // сколько людей будет есть
-            int water = 3000;
-            int potatoes = 5;
-            int chicken = 6;
-            int spices = 10;
-
-
-
+        int eater = 5; //cколько людей будет есть
+        int water = 3000;
+        int potatoes = 5;
+        int chicken = 6;
+        int spices = 10;
 
         System.out.println("water");
         System.out.println(("water / eaters") + "миллилитров (а) воды");
@@ -18,6 +15,8 @@ public class Main {
         System.out.println(("chicken / eaters") + "куриных(ое) бёдер(ро)");
         System.out.println(("spices / eaters") + "ложек(ки/ка) специй");
 
-       }
- }
+    }
+
+    }
+
 
