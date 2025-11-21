@@ -4,12 +4,13 @@ public class Main {
 
 
         int eater = 5; //cколько людей будет есть
-        int water = 3000;
-        int potatoes = 5;
-        int chicken = 6;
-        int spices = 10;
 
-        System.out.println("water");
+        int water = 3000; // миллилитров воды
+        int potatoes = 5; // картофелен
+        int chicken = 6; // куриных бёдер
+        int spices = 10; // ложек специй
+
+        System.out.println("Сварили суп. На одного человека вышло:");
         System.out.println(("water / eaters") + "миллилитров (а) воды");
         System.out.println(("potatoes / eaters") + "картофелин (а/ы)");
         System.out.println(("chicken / eaters") + "куриных(ое) бёдер(ро)");
